@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = VonneCoding
+	mail = imsunghello@gmail.com
+	email = imsunghello@gmail.com
+[remote "origin"]
+	url = https://github.com/VonneCoding/Curriculum-web-Vonne
+	fetch = +refs/heads/*:refs/remotes/origin/*
